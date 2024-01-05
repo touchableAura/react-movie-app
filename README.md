@@ -11,3 +11,5 @@ To run the program locally:
 3) Run the program:
 
 ### `npm start`
+
+![movies](https://github.com/touchableAura/react-movie-app/assets/132860080/bbb0f5da-30c5-4b1c-99ad-9380821aa41f)
