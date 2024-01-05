@@ -1,9 +1,13 @@
 # OMDb API Movie App
 
-Download dependencies:
+To run the program locally:
+
+1) Clone the repo and open with your editor.
+2) Open a terminal window and navigate to project dirctory.
+2) Download dependencies:
 
 ### `npm i`
 
-In the project directory, you can run:
+3) Run the program:
 
 ### `npm start`
