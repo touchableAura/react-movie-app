@@ -1,5 +1,7 @@
 # OMDb API Movie App
 
+Description: This application uses the OMDb API (https://omdbapi.com/) to search a catalogue of movies. Users can add movies to their favourites list. The favourites list is stored in local storage.
+
 To run the program locally:
 
 1) Clone the repo and open with your editor.
